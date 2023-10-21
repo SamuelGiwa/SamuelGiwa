@@ -30,7 +30,8 @@ Here are some of the technologies I work with:
 
 ## Let's Connect
 
-📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile/) for professional networking.
+
+📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/samuel-giwa-8b437a221) for professional networking.
 
 📬 You can also contact me via email at [samuelgiwa@gmail.com](mailto:samuelgiwa@gmail.com).
 
