@@ -33,7 +33,7 @@ Here are some of the technologies I work with:
 
 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/samuel-giwa-8b437a221) for professional networking.
 
-📬 You can also contact me via email at [samuelgiwa@gmail.com](mailto:samuelgiwa@gmail.com).
+📬 You can also contact me via email at [samuelgiwa41@gmail.com](mailto:samuelgiwa41@gmail.com).
 
 🌐 Explore my code repositories here on GitHub to see what I'm currently working on!
 
